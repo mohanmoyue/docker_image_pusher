@@ -2,11 +2,11 @@
 --platform=linux/amd64 homeassistant/home-assistant:2024.12
 arcw/sgcc_electricity
 chigusa/bililive-go
-johngong/qbittorrent
-vaultwarden/server
-fischerman/docker-ttrss
-technosoft2000/calibre-web
-cnk3x/xunlei
+#johngong/qbittorrent
+#vaultwarden/server
+#fischerman/docker-ttrss
+#technosoft2000/calibre-web
+#cnk3x/xunlei
 
 # Machine Learning & AI
-ollama/ollama
+#ollama/ollama
