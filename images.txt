@@ -1,7 +1,7 @@
 # homeassistant
---platform=linux/amd64 homeassistant/home-assistant:2024.12
+#--platform=linux/amd64 homeassistant/home-assistant:2024.12
 arcw/sgcc_electricity
-chigusa/bililive-go
+#chigusa/bililive-go
 #johngong/qbittorrent
 #vaultwarden/server
 #fischerman/docker-ttrss
