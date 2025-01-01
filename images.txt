@@ -1,6 +1,5 @@
 # homeassistant
-homeassistant/home-assistant
-homeassistant/amd64-addon-mosquitto
+--platform=linux/amd64 homeassistant/home-assistant:2024.12
 arcw/sgcc_electricity
 chigusa/bililive-go
 johngong/qbittorrent
